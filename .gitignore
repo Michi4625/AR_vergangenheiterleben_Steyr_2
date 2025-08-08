@@ -1,0 +1,26 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/Layouts/
+
+# OS / IDE
+.DS_Store
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# Unity cache/binaries
+*.unitypackage
+*.apk
+*.aab
+
+# Crash/Profiler
+*.stacktrace
+*.profiler
